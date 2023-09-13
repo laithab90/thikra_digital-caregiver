@@ -1,0 +1,11 @@
+pyaudio
+webrtcvad
+openai
+tkinter
+spacy
+textblob
+autocorrect
+nltk
+neuralcoref
+pandas
+langchain
