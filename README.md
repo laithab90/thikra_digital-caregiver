@@ -44,11 +44,15 @@
 
 "Thikra" stands out as a caregiver chatbot that goes beyond text-based interactions. By incorporating audio monitoring and safety alerts, it ensures a higher level of care and attention for individuals with dementia.
 
-
+# Prototye workflow
 ![structure](https://github.com/laithab90/thikra_digital-caregiver/assets/95342563/abb7a16e-ad4c-4f63-a451-b8fe9f7cbd83)
 
+# Topic modeling algorithm workflow
 ![topic modelling](https://github.com/laithab90/thikra_digital-caregiver/assets/95342563/ee95f14b-b01a-4f0f-a57e-8fda0e0c930f)
 
+# Time decay factor 
 ![timedecay](https://github.com/laithab90/thikra_digital-caregiver/assets/95342563/8b322dac-02fd-4d55-a633-99d0ae2a0665)
 
-![topic modelling](https://github.com/laithab90/thikra_digital-caregiver/assets/95342563/6cb79252-6b88-4113-a704-7bef9f3201e9)
+# VUI workflow
+![vui workflow](https://github.com/laithab90/thikra_digital-caregiver/assets/95342563/d891589c-691c-4ef2-baf8-920c703e1a95)
+
